@@ -1,0 +1,75 @@
+/* Header.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    padding: 10px 20px;
+  }
+  .left span{
+    font-weight: 800;
+  }
+  
+  .left, .middle, .right {
+    flex: 1;
+  }
+  
+  .middle nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: #071A45;
+    color: white;
+    /* width: 250px; */
+    height: 50px;
+    align-items: center;
+    border-radius: 25px;
+  }
+ 
+
+  
+  
+  
+  /* Add the following styles for the right div */
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+   .btn1, .btn2 {
+     margin-left: 15px; 
+     width: 100px;
+     
+  }
+  .btn2 button{
+    width:  75px;
+    height: 58px;
+    padding: 16px, 16px, 16px, 24px;
+    border-radius: 40px;
+    gap: 16px;
+    color: white;
+    
+background: #3A7DFF;
+
+
+  }
+  .btn1 button{
+    width:  75px;
+    height: 58px;
+    padding: 16px, 16px, 16px, 24px;
+    border-radius: 40px;
+    gap: 16px;
+   
+    
+background: white;
+  }
+  
+.btn1 button, .btn2 button {
+    border-radius: 25px; /* Apply border-radius to the buttons */
+  }
+  
+  .right {
+    margin-left: 100px
+  }

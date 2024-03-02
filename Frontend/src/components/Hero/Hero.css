@@ -1,0 +1,68 @@
+.one {
+    width: 1237px;
+height: 240px;
+font-size: 72px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0.01em;
+text-align: center;
+padding-left: 25px;
+}
+.two{
+    color: #2C8FB5;
+    font-size: 72px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    padding-left: 350px;
+    font-style: italic;
+
+}
+.three{
+    width: 1237px;
+height: 240px;
+font-size: 72px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0.01em;
+text-align: center;
+padding-left: 25px;
+padding-left: 150px;
+}
+
+h3{
+    font-family: Lato;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.btn101{
+    padding-left:450px;
+ 
+}
+.btn11 {
+    margin-right: 45px;
+    width:   224px;
+    height:  58px;
+    padding: 16px, 16px, 16px, 24px;
+    border-radius: 40px;
+   
+    background-color: #2C8FB5;
+    color: white;
+    
+    
+}
+
+.btn21{
+    width:   224px;
+    height:  58px;
+    padding: 16px, 16px, 16px, 24px;
+    border-radius: 40px;
+    gap: 16px;
+    background-color: #2C8FB5;
+    color: white;
+}
+

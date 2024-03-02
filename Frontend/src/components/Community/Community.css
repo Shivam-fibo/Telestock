@@ -1,0 +1,28 @@
+.community{
+    height: 500px;
+    width: 97.5%;
+    margin-top: 100px;
+    background: linear-gradient(93.39deg, #C5D9E0 0.4%, #A7C8D7 49.33%, #9FC7D7 104.99%);
+    /* padding-bottom: px; */
+}
+.heading{
+  
+text-align: center;
+padding-top: 100px;
+
+}
+.btn{
+   
+}
+.btn button{
+  
+    margin-top: 25px;
+    width:  323px;
+    height:  58px;
+    padding: 16px, 16px, 16px, 24px;
+    border-radius: 40px;
+    gap: 16px;
+    color: white;    
+    background-color: #3A7DFF;
+
+}
